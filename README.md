@@ -9,7 +9,7 @@ I can't stand when people say that machine learning models are consider to be a 
 
 We confirm in this post that we *can* interpret these black box models and explore the very nice libraries of SHAP, LIME, and treeinterpreter. 
 
-You can see the Medium post based on this [here](https://medium.com/@mevanoff24/interpret-the-black-box-dc69031a81fa)
+You can see the Medium post based on this [here](https://medium.com/@mevanoff24/interpret-the-black-box-dc69031a81fa) and direct link to the notebook [here](https://github.com/mevanoff24/blog/blob/master/PovertyLevel/ModelInterpretation.ipynb). 
 
 ### Libraries
 - Sklearn
